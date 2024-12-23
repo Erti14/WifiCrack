@@ -46,12 +46,13 @@ Usage
 File Structure
 --------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   .  ├── wifi_cracker.py       # Main script file  ├── password_list.txt     # File containing password list (auto-generated)  └── README.md             # Documentation file   `
+Plain 
+`   .  ├── wifi_cracker.py       # Main script file  ├── password_list.txt     # File containing password list (auto-generated)  └── README.md             # Documentation file   `
 
 Example Output
 --------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Wi-Fi Interface Name: wlan0  Scanning for available networks...  Available Networks:   - Network1   - Network2  For network 'Network1':  Enter possible keywords (comma-separated): admin, password  Enter possible numbers (comma-separated): 1234, 5678  New passwords added to 'password_list.txt'.  Attempting to crack password-protected networks...  Trying password 'admin1234' for network 'Network1'...  Trying password '1234admin' for network 'Network1'...  Password found! Wi-Fi network 'Network1' has the password: admin1234  ********** Discovered Passwords **********  WIFI NETWORK      PASSWORD  Network1          admin1234   `
+Plain `   Wi-Fi Interface Name: wlan0  Scanning for available networks...  Available Networks:   - Network1   - Network2  For network 'Network1':  Enter possible keywords (comma-separated): admin, password  Enter possible numbers (comma-separated): 1234, 5678  New passwords added to 'password_list.txt'.  Attempting to crack password-protected networks...  Trying password 'admin1234' for network 'Network1'...  Trying password '1234admin' for network 'Network1'...  Password found! Wi-Fi network 'Network1' has the password: admin1234  ********** Discovered Passwords **********  WIFI NETWORK      PASSWORD  Network1          admin1234   `
 
 Notes
 -----
